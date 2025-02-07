@@ -3,7 +3,7 @@
 
 Projeto do Vídeo Q1093 Série **_Tutorial_Maker** powered by **_Petrobras_**
 
-:video_camera: Assista o vídeo [CLIQUE AQUI]()
+:video_camera: Assista o vídeo [CLIQUE AQUI](https://youtu.be/LqjTi0Y7ThQ)
 
 - Confira a série completa na Playlist [(Clique Aqui)](https://www.youtube.com/playlist?list=PL7CjOZ3q8fMfSiij6-3jm6nDhk7XdAp0p)
 

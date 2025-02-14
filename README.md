@@ -1,7 +1,7 @@
 # Q1094
 **Sensor de Peso HX711**
 
-Projeto do Vídeo Q1093 Série **_Tutorial_Maker** powered by **_Petrobras_**
+Projeto do Vídeo Q1094 Série **_Tutorial_Maker** powered by **_Petrobras_**
 
 :video_camera: Assista o vídeo [CLIQUE AQUI](https://youtu.be/LqjTi0Y7ThQ)
 

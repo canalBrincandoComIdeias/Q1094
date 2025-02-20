@@ -1,15 +1,21 @@
 # Q1094
 **Sensor de Peso HX711**
 
-Projeto do Vídeo Q1094 Série **_Tutorial_Maker** powered by **_Petrobras_**
+Projeto do Vídeo Q1094 Série **_Tutorial Maker_** powered by **_Petrobras_**
 
 :video_camera: Assista o vídeo [CLIQUE AQUI](https://youtu.be/LqjTi0Y7ThQ)
 
 - Confira a série completa na Playlist [(Clique Aqui)](https://www.youtube.com/playlist?list=PL7CjOZ3q8fMfSiij6-3jm6nDhk7XdAp0p)
 
 
-- Aprenda a programar ARDUINO com nosso [Curso de Arduino para Principiantes](https://cursodearduino.net/principiantes/) e o [Curso de Arduino 2.0](https://cursodearduino.net/). Com eles, você irá desenvolver sua própria lógica da programação e terá uma maior independencia, sem precisar copiar sketchs na internet.
+:mortar_board: Aprenda a programar ARDUINO com nossos cursos e aprenda a desenvolver sua própria lógica da programação e ter uma maior independencia, sem precisar copiar sketchs na internet.
+- [Curso de Arduino para Principiantes](https://cursodearduino.net/principiantes/) 
+- [Curso de Arduino 2.0](https://cursodearduino.net/)
 
+:iphone: Todos os apps Android **Brincando com Ideias**: [CLIQUE AQUI](https://play.google.com/store/apps/developer?id=Brincando+com+Ideias&hl=pt_BR) 
+
+ - Aplicativo montTUDO 4 canais: [CLIQUE AQUI](https://play.google.com/store/apps/details?id=appinventor.ai_thiago_vilella.montTUDO_4_Canais)
+ - Aplicativo monTUDO robô: [CLIQUE AQUI](https://play.google.com/store/apps/details?id=appinventor.ai_flaviosg_2407.montTUDO_Robo)
 
 **Conheça nossas Redes Sociais:**
 
